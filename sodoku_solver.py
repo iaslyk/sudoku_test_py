@@ -88,6 +88,7 @@ class Sudoku():
                 self.state[y][x] = 0
         return False
 
+    # Print current state
     def print_state(self):
         for y in range(self.size):
             print('| ', end='')
