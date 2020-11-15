@@ -1,2 +1,2 @@
-# sudoku_test_py
+# sudoku_solver_py
 Simple Sudoku solver made in Python
